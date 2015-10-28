@@ -1,13 +1,13 @@
-# Weather APP
+# Chat APP
 
-This an example weather app
+This an example Chat app
 
 
 ## Run
 
 ```
-npm start
+node index.js
 ```
-UI available at _http://localhost:3010
+UI available at _http://localhost:3010/chat
 
 
