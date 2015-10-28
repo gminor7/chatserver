@@ -1,0 +1,10 @@
+{
+	"mqtt": {
+		"host": "mqtt://broker.hivemq.com"
+	},
+	"rooms" :[
+		"room1",
+		"room2",
+		"room3"
+	]
+}

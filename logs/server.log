@@ -1,0 +1,531 @@
+Wed Oct 21 2015 20:41:21 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:41:24 GMT-0400 (EDT): Program output: [20:41:22] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:41:22] Starting 'browserify'...
+[20:41:22] Finished 'browserify' after 8.65 ms
+[20:41:22] Starting 'copy'...
+[20:41:23] Finished 'copy' after 958 ms
+[20:41:23] Starting 'default'...
+[20:41:23] Finished 'default' after 13 μs
+
+Wed Oct 21 2015 20:41:24 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:42:04 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:42:07 GMT-0400 (EDT): Program output: [20:42:05] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:42:05] Starting 'browserify'...
+[20:42:05] Finished 'browserify' after 8.66 ms
+[20:42:05] Starting 'copy'...
+[20:42:05] Finished 'copy' after 658 ms
+[20:42:05] Starting 'default'...
+[20:42:05] Finished 'default' after 7.07 μs
+
+Wed Oct 21 2015 20:42:07 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:42:30 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:42:33 GMT-0400 (EDT): Program output: [20:42:31] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:42:31] Starting 'browserify'...
+[20:42:31] Finished 'browserify' after 8.73 ms
+[20:42:31] Starting 'copy'...
+[20:42:31] Finished 'copy' after 582 ms
+[20:42:31] Starting 'default'...
+[20:42:31] Finished 'default' after 11 μs
+
+Wed Oct 21 2015 20:42:33 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:43:23 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:43:25 GMT-0400 (EDT): Program output: [20:43:23] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:43:23] Starting 'browserify'...
+[20:43:23] Finished 'browserify' after 8.93 ms
+[20:43:23] Starting 'copy'...
+[20:43:24] Finished 'copy' after 567 ms
+[20:43:24] Starting 'default'...
+[20:43:24] Finished 'default' after 6.48 μs
+
+Wed Oct 21 2015 20:43:25 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:44:06 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:44:08 GMT-0400 (EDT): Program output: [20:44:06] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:44:06] Starting 'browserify'...
+[20:44:06] Finished 'browserify' after 8.65 ms
+[20:44:06] Starting 'copy'...
+[20:44:07] Finished 'copy' after 575 ms
+[20:44:07] Starting 'default'...
+[20:44:07] Finished 'default' after 11 μs
+
+Wed Oct 21 2015 20:44:08 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:45:45 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:45:47 GMT-0400 (EDT): Program output: [20:45:45] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:45:45] Starting 'browserify'...
+[20:45:45] Finished 'browserify' after 8.65 ms
+[20:45:45] Starting 'copy'...
+[20:45:46] Finished 'copy' after 583 ms
+[20:45:46] Starting 'default'...
+[20:45:46] Finished 'default' after 6.68 μs
+
+Wed Oct 21 2015 20:45:47 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:46:35 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:46:38 GMT-0400 (EDT): Program output: [20:46:36] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:46:36] Starting 'browserify'...
+[20:46:36] Finished 'browserify' after 9.18 ms
+[20:46:36] Starting 'copy'...
+[20:46:36] Finished 'copy' after 570 ms
+[20:46:36] Starting 'default'...
+[20:46:36] Finished 'default' after 32 μs
+
+Wed Oct 21 2015 20:46:38 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:47:21 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:47:23 GMT-0400 (EDT): Program output: [20:47:21] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:47:21] Starting 'browserify'...
+[20:47:21] Finished 'browserify' after 8.66 ms
+[20:47:21] Starting 'copy'...
+[20:47:22] Finished 'copy' after 596 ms
+[20:47:22] Starting 'default'...
+[20:47:22] Finished 'default' after 7.13 μs
+
+Wed Oct 21 2015 20:47:23 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:48:38 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:48:41 GMT-0400 (EDT): Program output: [20:48:39] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:48:39] Starting 'browserify'...
+[20:48:39] Finished 'browserify' after 8.59 ms
+[20:48:39] Starting 'copy'...
+[20:48:39] Finished 'copy' after 571 ms
+[20:48:39] Starting 'default'...
+[20:48:39] Finished 'default' after 6.03 μs
+
+Wed Oct 21 2015 20:48:41 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:49:21 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:49:23 GMT-0400 (EDT): Program output: [20:49:21] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:49:21] Starting 'browserify'...
+[20:49:21] Finished 'browserify' after 8.53 ms
+[20:49:21] Starting 'copy'...
+[20:49:22] Finished 'copy' after 579 ms
+[20:49:22] Starting 'default'...
+[20:49:22] Finished 'default' after 7.3 μs
+
+Wed Oct 21 2015 20:49:23 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 20:59:45 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 20:59:48 GMT-0400 (EDT): Program output: [20:59:46] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[20:59:46] Starting 'browserify'...
+[20:59:46] Finished 'browserify' after 9.27 ms
+[20:59:46] Starting 'copy'...
+[20:59:47] Finished 'copy' after 805 ms
+[20:59:47] Starting 'default'...
+[20:59:47] Finished 'default' after 6.45 μs
+
+Wed Oct 21 2015 20:59:48 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:00:33 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:00:35 GMT-0400 (EDT): Program output: [21:00:34] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:00:34] Starting 'browserify'...
+[21:00:34] Finished 'browserify' after 8.67 ms
+[21:00:34] Starting 'copy'...
+[21:00:34] Finished 'copy' after 602 ms
+[21:00:34] Starting 'default'...
+[21:00:34] Finished 'default' after 7.2 μs
+
+Wed Oct 21 2015 21:00:35 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:00:42 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:00:44 GMT-0400 (EDT): Server Exiting
+Wed Oct 21 2015 21:01:18 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:01:20 GMT-0400 (EDT): Server Exiting
+Wed Oct 21 2015 21:04:03 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:04:06 GMT-0400 (EDT): Program output: [21:04:04] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:04:04] Starting 'browserify'...
+[21:04:04] Finished 'browserify' after 14 ms
+[21:04:04] Starting 'copy'...
+[21:04:05] Finished 'copy' after 564 ms
+[21:04:05] Starting 'default'...
+[21:04:05] Finished 'default' after 6.45 μs
+
+Wed Oct 21 2015 21:04:06 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:04:08 GMT-0400 (EDT): Server Exiting
+Wed Oct 21 2015 21:04:38 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:04:41 GMT-0400 (EDT): Program output: [21:04:39] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:04:39] Starting 'browserify'...
+[21:04:39] Finished 'browserify' after 8.84 ms
+[21:04:39] Starting 'copy'...
+[21:04:39] Finished 'copy' after 560 ms
+[21:04:39] Starting 'default'...
+[21:04:39] Finished 'default' after 6.85 μs
+
+Wed Oct 21 2015 21:04:41 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:05:31 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:05:34 GMT-0400 (EDT): Program output: [21:05:32] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:05:32] Starting 'browserify'...
+[21:05:32] Finished 'browserify' after 8.84 ms
+[21:05:32] Starting 'copy'...
+[21:05:32] Finished 'copy' after 599 ms
+[21:05:32] Starting 'default'...
+[21:05:32] Finished 'default' after 7.13 μs
+
+Wed Oct 21 2015 21:05:34 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:09:00 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:09:03 GMT-0400 (EDT): Program output: [21:09:01] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:09:01] Starting 'browserify'...
+[21:09:01] Finished 'browserify' after 8.78 ms
+[21:09:01] Starting 'copy'...
+[21:09:01] Finished 'copy' after 575 ms
+[21:09:02] Starting 'default'...
+[21:09:02] Finished 'default' after 7.29 μs
+
+Wed Oct 21 2015 21:09:03 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:14:02 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:14:04 GMT-0400 (EDT): Program output: [21:14:02] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:14:02] Starting 'browserify'...
+[21:14:02] Finished 'browserify' after 8.59 ms
+[21:14:02] Starting 'copy'...
+[21:14:03] Finished 'copy' after 557 ms
+[21:14:03] Starting 'default'...
+[21:14:03] Finished 'default' after 7.8 μs
+
+Wed Oct 21 2015 21:14:04 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:48:52 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:48:58 GMT-0400 (EDT): Program output: [21:48:54] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:48:54] Starting 'browserify'...
+[21:48:54] Finished 'browserify' after 8.98 ms
+[21:48:54] Starting 'copy'...
+[21:48:55] Finished 'copy' after 772 ms
+[21:48:55] Starting 'default'...
+[21:48:55] Finished 'default' after 6.67 μs
+
+Wed Oct 21 2015 21:48:58 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 21:50:13 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 21:50:16 GMT-0400 (EDT): Program output: [21:50:14] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[21:50:14] Starting 'browserify'...
+[21:50:14] Finished 'browserify' after 9.6 ms
+[21:50:14] Starting 'copy'...
+[21:50:14] Finished 'copy' after 604 ms
+[21:50:14] Starting 'default'...
+[21:50:14] Finished 'default' after 6.61 μs
+
+Wed Oct 21 2015 21:50:16 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 22:05:19 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 22:05:21 GMT-0400 (EDT): Program output: [22:05:19] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[22:05:19] Starting 'browserify'...
+[22:05:19] Finished 'browserify' after 8.7 ms
+[22:05:19] Starting 'copy'...
+[22:05:20] Finished 'copy' after 586 ms
+[22:05:20] Starting 'default'...
+[22:05:20] Finished 'default' after 6.55 μs
+
+Wed Oct 21 2015 22:05:21 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 22:05:47 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 22:05:50 GMT-0400 (EDT): Program output: [22:05:48] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[22:05:48] Starting 'browserify'...
+[22:05:48] Finished 'browserify' after 8.91 ms
+[22:05:48] Starting 'copy'...
+[22:05:48] Finished 'copy' after 550 ms
+[22:05:48] Starting 'default'...
+[22:05:48] Finished 'default' after 6.65 μs
+
+Wed Oct 21 2015 22:05:50 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 22:07:08 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 22:07:11 GMT-0400 (EDT): Program output: [22:07:09] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[22:07:09] Starting 'browserify'...
+[22:07:09] Finished 'browserify' after 8.89 ms
+[22:07:09] Starting 'copy'...
+[22:07:10] Finished 'copy' after 597 ms
+[22:07:10] Starting 'default'...
+[22:07:10] Finished 'default' after 6.68 μs
+
+Wed Oct 21 2015 22:07:11 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 22:28:25 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 22:28:29 GMT-0400 (EDT): Program output: [22:28:27] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[22:28:27] Starting 'browserify'...
+[22:28:27] Finished 'browserify' after 8.74 ms
+[22:28:27] Starting 'copy'...
+[22:28:28] Finished 'copy' after 1.1 s
+[22:28:28] Starting 'default'...
+[22:28:28] Finished 'default' after 7.21 μs
+
+Wed Oct 21 2015 22:28:29 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 22:33:19 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 22:33:22 GMT-0400 (EDT): Program output: [22:33:20] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[22:33:20] Starting 'browserify'...
+[22:33:20] Finished 'browserify' after 8.53 ms
+[22:33:20] Starting 'copy'...
+[22:33:20] Finished 'copy' after 564 ms
+[22:33:20] Starting 'default'...
+[22:33:20] Finished 'default' after 6.71 μs
+
+Wed Oct 21 2015 22:33:22 GMT-0400 (EDT): ui build complete
+Wed Oct 21 2015 22:33:30 GMT-0400 (EDT): listening on *:3010
+Wed Oct 21 2015 22:33:33 GMT-0400 (EDT): Program output: [22:33:31] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[22:33:31] Starting 'browserify'...
+[22:33:31] Finished 'browserify' after 9.2 ms
+[22:33:31] Starting 'copy'...
+[22:33:31] Finished 'copy' after 586 ms
+[22:33:31] Starting 'default'...
+[22:33:31] Finished 'default' after 7.25 μs
+
+Wed Oct 21 2015 22:33:33 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 08:47:13 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 08:47:16 GMT-0400 (EDT): Program output: [08:47:14] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[08:47:14] Starting 'browserify'...
+[08:47:14] Finished 'browserify' after 8.61 ms
+[08:47:14] Starting 'copy'...
+[08:47:15] Finished 'copy' after 1.41 s
+[08:47:15] Starting 'default'...
+[08:47:15] Finished 'default' after 6.81 μs
+
+Thu Oct 22 2015 08:47:16 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:07:16 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:07:18 GMT-0400 (EDT): Program output: [09:07:16] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:07:16] Starting 'browserify'...
+[09:07:16] Finished 'browserify' after 8.71 ms
+[09:07:16] Starting 'copy'...
+[09:07:18] Finished 'copy' after 1.49 s
+[09:07:18] Starting 'default'...
+[09:07:18] Finished 'default' after 6.31 μs
+
+Thu Oct 22 2015 09:07:18 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:09:59 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:10:02 GMT-0400 (EDT): Program output: [09:10:00] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:10:00] Starting 'browserify'...
+[09:10:00] Finished 'browserify' after 10 ms
+[09:10:00] Starting 'copy'...
+[09:10:02] Finished 'copy' after 1.5 s
+[09:10:02] Starting 'default'...
+[09:10:02] Finished 'default' after 8.64 μs
+
+Thu Oct 22 2015 09:10:02 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:11:21 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:11:24 GMT-0400 (EDT): Program output: [09:11:22] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:11:22] Starting 'browserify'...
+[09:11:22] Finished 'browserify' after 8.81 ms
+[09:11:22] Starting 'copy'...
+[09:11:23] Finished 'copy' after 1.56 s
+[09:11:23] Starting 'default'...
+[09:11:23] Finished 'default' after 6.95 μs
+
+Thu Oct 22 2015 09:11:24 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:12:03 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:12:06 GMT-0400 (EDT): Program output: [09:12:04] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:12:04] Starting 'browserify'...
+[09:12:04] Finished 'browserify' after 8.75 ms
+[09:12:04] Starting 'copy'...
+[09:12:05] Finished 'copy' after 1.43 s
+[09:12:05] Starting 'default'...
+[09:12:05] Finished 'default' after 6.56 μs
+
+Thu Oct 22 2015 09:12:06 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:12:57 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:12:59 GMT-0400 (EDT): Program output: [09:12:57] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:12:57] Starting 'browserify'...
+[09:12:57] Finished 'browserify' after 10 ms
+[09:12:57] Starting 'copy'...
+[09:12:59] Finished 'copy' after 1.43 s
+[09:12:59] Starting 'default'...
+[09:12:59] Finished 'default' after 7.23 μs
+
+Thu Oct 22 2015 09:12:59 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:13:26 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:13:28 GMT-0400 (EDT): Program output: [09:13:26] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:13:26] Starting 'browserify'...
+[09:13:26] Finished 'browserify' after 9.18 ms
+[09:13:26] Starting 'copy'...
+[09:13:28] Finished 'copy' after 1.47 s
+[09:13:28] Starting 'default'...
+[09:13:28] Finished 'default' after 6.82 μs
+
+Thu Oct 22 2015 09:13:28 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:14:03 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:14:05 GMT-0400 (EDT): Program output: [09:14:03] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:14:03] Starting 'browserify'...
+[09:14:03] Finished 'browserify' after 8.58 ms
+[09:14:03] Starting 'copy'...
+[09:14:05] Finished 'copy' after 1.34 s
+[09:14:05] Starting 'default'...
+[09:14:05] Finished 'default' after 15 μs
+
+Thu Oct 22 2015 09:14:05 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:14:37 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:14:39 GMT-0400 (EDT): Program output: [09:14:37] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:14:37] Starting 'browserify'...
+[09:14:37] Finished 'browserify' after 11 ms
+[09:14:37] Starting 'copy'...
+[09:14:39] Finished 'copy' after 1.43 s
+[09:14:39] Starting 'default'...
+[09:14:39] Finished 'default' after 6.3 μs
+
+Thu Oct 22 2015 09:14:39 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 09:15:50 GMT-0400 (EDT): Server Exiting
+Thu Oct 22 2015 09:16:44 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 09:16:47 GMT-0400 (EDT): Program output: [09:16:45] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[09:16:45] Starting 'browserify'...
+[09:16:45] Finished 'browserify' after 8.87 ms
+[09:16:45] Starting 'copy'...
+[09:16:46] Finished 'copy' after 1.4 s
+[09:16:46] Starting 'default'...
+[09:16:46] Finished 'default' after 6.66 μs
+
+Thu Oct 22 2015 09:16:47 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:03:57 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:04:00 GMT-0400 (EDT): Program output: [19:03:58] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[19:03:58] Starting 'browserify'...
+[19:03:58] Finished 'browserify' after 8.6 ms
+[19:03:58] Starting 'copy'...
+[19:03:59] Finished 'copy' after 1.49 s
+[19:03:59] Starting 'default'...
+[19:03:59] Finished 'default' after 6.93 μs
+
+Thu Oct 22 2015 19:04:00 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:06:33 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:06:35 GMT-0400 (EDT): Program output: [19:06:34] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[19:06:34] Starting 'browserify'...
+[19:06:34] Finished 'browserify' after 9.25 ms
+[19:06:34] Starting 'copy'...
+[19:06:35] Finished 'copy' after 1.32 s
+[19:06:35] Starting 'default'...
+[19:06:35] Finished 'default' after 10 μs
+
+Thu Oct 22 2015 19:06:35 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:07:51 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:07:54 GMT-0400 (EDT): Program output: [19:07:52] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[19:07:52] Starting 'browserify'...
+[19:07:52] Finished 'browserify' after 8.85 ms
+[19:07:52] Starting 'copy'...
+[19:07:53] Finished 'copy' after 1.31 s
+[19:07:53] Starting 'default'...
+[19:07:53] Finished 'default' after 6.29 μs
+
+Thu Oct 22 2015 19:07:54 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:08:30 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:08:33 GMT-0400 (EDT): Program output: [19:08:31] Using gulpfile /Volumes/square/weather/app/gulpfile.js
+[19:08:31] Starting 'browserify'...
+[19:08:31] Finished 'browserify' after 8.92 ms
+[19:08:31] Starting 'copy'...
+[19:08:32] Finished 'copy' after 1.35 s
+[19:08:32] Starting 'default'...
+[19:08:32] Finished 'default' after 7.29 μs
+
+Thu Oct 22 2015 19:08:33 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:11:51 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:11:54 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:12:12 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:12:14 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:13:53 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:13:56 GMT-0400 (EDT): ui build complete
+Thu Oct 22 2015 19:14:32 GMT-0400 (EDT): Server Exiting
+Thu Oct 22 2015 19:15:42 GMT-0400 (EDT): listening on *:3010
+Thu Oct 22 2015 19:15:44 GMT-0400 (EDT): ui build complete
+Mon Oct 26 2015 22:06:29 GMT-0400 (EDT): listening on *:3010
+Mon Oct 26 2015 22:06:32 GMT-0400 (EDT): ui build complete
+Mon Oct 26 2015 22:06:58 GMT-0400 (EDT): listening on *:3010
+Mon Oct 26 2015 22:07:01 GMT-0400 (EDT): ui build complete
+Mon Oct 26 2015 22:14:16 GMT-0400 (EDT): listening on *:3010
+Mon Oct 26 2015 22:14:19 GMT-0400 (EDT): ui build complete
+Mon Oct 26 2015 22:15:43 GMT-0400 (EDT): listening on *:3020
+Mon Oct 26 2015 22:15:45 GMT-0400 (EDT): ui build complete
+Mon Oct 26 2015 22:19:50 GMT-0400 (EDT): listening on *:3020
+Mon Oct 26 2015 22:19:52 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 19:16:37 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 19:16:43 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 20:55:02 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 20:55:07 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 21:05:08 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 21:05:10 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 21:05:46 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 21:05:48 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 21:06:28 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 21:06:30 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 21:10:02 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 21:10:06 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:00:59 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:01:02 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:01:38 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:01:41 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:04:28 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:04:30 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:06:01 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:06:03 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:16:16 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 22:16:18 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:16:20 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:48:13 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:48:15 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:55:27 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 22:55:36 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:55:39 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:55:55 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 22:58:12 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:58:15 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:58:25 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 22:58:52 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 22:58:55 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 22:59:01 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:00:38 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:00:41 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:00:54 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:01:37 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:01:39 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:01:50 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:02:30 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:02:33 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:02:38 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:02:55 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:02:57 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:03:39 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:03:42 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:03:47 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:04:14 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:04:17 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:04:20 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:04:53 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:04:56 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:05:02 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:07:01 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:07:04 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:07:10 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:08:47 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:08:49 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:08:54 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:10:39 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:10:42 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:10:57 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:12:30 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:12:32 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:14:39 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:14:42 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:15:46 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:15:48 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:16:57 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:17:00 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:17:48 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:17:50 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:18:26 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:18:28 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:19:03 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:19:05 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:19:25 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:19:28 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:19:45 GMT-0400 (EDT): { [Error: ENOENT, no such file or directory './msgs/msgs.json']
+  errno: -2,
+  code: 'ENOENT',
+  path: './msgs/msgs.json',
+  syscall: 'open' }
+Tue Oct 27 2015 23:19:45 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:19:47 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:20:02 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:20:05 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:24:54 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:24:57 GMT-0400 (EDT): ui build complete
+Tue Oct 27 2015 23:27:16 GMT-0400 (EDT): Server Exiting
+Tue Oct 27 2015 23:27:49 GMT-0400 (EDT): listening on *:3020
+Tue Oct 27 2015 23:27:52 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 00:07:07 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 00:07:09 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 00:08:35 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 00:08:38 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 00:10:13 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 00:10:16 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 00:16:44 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 00:16:47 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 00:17:45 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 00:17:47 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 00:20:10 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 00:20:12 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 00:25:18 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 00:25:20 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 08:54:48 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 08:54:54 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 09:00:34 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 09:00:34 GMT-0400 (EDT): Server Exiting
+Wed Oct 28 2015 09:01:13 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 09:01:16 GMT-0400 (EDT): ui build complete
+Wed Oct 28 2015 09:04:13 GMT-0400 (EDT): listening on *:3020
+Wed Oct 28 2015 09:04:15 GMT-0400 (EDT): ui build complete

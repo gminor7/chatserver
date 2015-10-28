@@ -1,0 +1,23 @@
+[
+  {
+    // App1
+    "uid": "job_queue",
+    "append": true,
+    "watch": false,
+    "script": "index.js",
+    "watchIgnore": "*.log",
+    "minUptime":1000,
+    "spinSleepTime":1000
+  },
+  {
+    // App2
+    "uid": "metadata_worker",
+    "append": true,
+    "watch": false,
+    "script": "./api/metadata_worker.js",
+    "watchIgnore": "*.log",
+    "args": [1],
+    "minUptime":1000,
+    "spinSleepTime":1000
+  }
+]
